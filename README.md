@@ -3,6 +3,7 @@
 - Scientific and Computational Thinking (과학과소프트웨어적사고)  
 - Object-Oriented Programming (객체지향프로그래밍)
 - C++ Programming (C++ 프로그래밍)
+- Data Sturcture (자료구조)
 - Machine Learning (머신러닝)  
 - Deep Learning (딥러닝)  
 - Text Big Data Analysis (텍스트데이터분석)  
