@@ -8,5 +8,6 @@
 - Deep Learning (딥러닝)  
 - Text Big Data Analysis (텍스트데이터분석)  
 - Artificial Intelligence (인공지능)
+- Bigdata Engineering (빅데이터엔지니어링)
 - Multivariate Statistical Analysis (다변량통계분석)  
 - Advanced Statistical Practice (고급통계실무/베이지안모델링)  
