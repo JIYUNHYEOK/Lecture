@@ -1,5 +1,5 @@
 # Lecture
-학부 수업에서 배웠던 내용들을 정리해보았습니다.
+## 학부 수업에서 배웠던 내용들을 정리해보았습니다.
 - Scientific and Computational Thinking (과학과소프트웨어적사고)  
 - Object-Oriented Programming (객체지향프로그래밍)
 - C++ Programming (C++ 프로그래밍)
